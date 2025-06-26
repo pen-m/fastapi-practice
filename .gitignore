@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Logs and cache
+*.log
+*.sqlite3
+*.db
+*.cache/
+
+# Analytics data
+analytics/upload_logs.jsonl
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
