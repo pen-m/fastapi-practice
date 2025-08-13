@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+.env
+.venv/
+
+# Ignore logs
+*.log
+
+# Ignore images or PDFs users upload locally
+*.jpg
+*.png
+*.pdf
+
+# Ignore SQLite or test databases if added later
+*.sqlite3
